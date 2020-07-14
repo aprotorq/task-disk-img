@@ -1,0 +1,13 @@
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.exe
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.deps.json
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.runtimeconfig.json
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.runtimeconfig.dev.json
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.dll
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\bin\Debug\netcoreapp3.1\ReadSectors.pdb
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.csprojAssemblyReference.cache
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.AssemblyInfoInputs.cache
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.AssemblyInfo.cs
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.csproj.CoreCompileInputs.cache
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.dll
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.pdb
+C:\Users\Torq\source\repos\ReadSectors\ReadSectors\obj\Debug\netcoreapp3.1\ReadSectors.genruntimeconfig.cache
